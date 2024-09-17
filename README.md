@@ -10,7 +10,9 @@ This is a web application for stock information. Users can look up the current a
 ## Home Page
 
 ![Homepage1](https://github.com/user-attachments/assets/360d4c79-24ea-4c4d-b8d9-3f8c83c128fc)
-![Homepage2](https://github.com/user-attachments/assets/66fdf365-4f06-4b22-8102-fe0ed68fd841)
+<div>
+  ![Homepage2](https://github.com/user-attachments/assets/66fdf365-4f06-4b22-8102-fe0ed68fd841)
+</div>
 ![Homepage3](https://github.com/user-attachments/assets/2e7326ec-a520-46a2-a7c6-6ef4b47ff5ef)
 
 
@@ -23,7 +25,9 @@ This is a web application for stock information. Users can look up the current a
 ## Stock Page
 
 ![StockPage1](https://github.com/user-attachments/assets/4c69e402-ea65-4e72-808c-08297f5ce170)
-![StockPage2](https://github.com/user-attachments/assets/c86226f4-53df-408f-90d7-f1ec9d2139e2)
+<div>
+  ![StockPage2](https://github.com/user-attachments/assets/c86226f4-53df-408f-90d7-f1ec9d2139e2)
+</div>
 
 
 ## Chatbot 
