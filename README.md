@@ -13,7 +13,7 @@ This is a web application for stock information. Users can look up the current a
 ![Homepage1](https://github.com/user-attachments/assets/360d4c79-24ea-4c4d-b8d9-3f8c83c128fc)
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/66fdf365-4f06-4b22-8102-fe0ed68fd841" alt="Homepage2" width="300"/>
+  <img src="https://github.com/user-attachments/assets/66fdf365-4f06-4b22-8102-fe0ed68fd841" alt="Homepage2"/>
 </p>
 
 ![Homepage3](https://github.com/user-attachments/assets/2e7326ec-a520-46a2-a7c6-6ef4b47ff5ef)
