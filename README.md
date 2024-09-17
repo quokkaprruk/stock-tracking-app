@@ -30,14 +30,14 @@ This is a web application for stock information. Users can look up the current a
 ![StockPage1](https://github.com/user-attachments/assets/4c69e402-ea65-4e72-808c-08297f5ce170)
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c86226f4-53df-408f-90d7-f1ec9d2139e2" alt="StockPage2" width="300"/>
+  <img src="https://github.com/user-attachments/assets/c86226f4-53df-408f-90d7-f1ec9d2139e2" alt="StockPage2" />
 </p>
 
 
 ## Chatbot 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7c2b598c-60d8-45f1-9ed2-f708d2919d27" alt="chatbot1" width="300"/>
+  <img src="https://github.com/user-attachments/assets/7c2b598c-60d8-45f1-9ed2-f708d2919d27" alt="chatbot1" />
 </p>
 
 
