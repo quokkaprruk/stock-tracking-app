@@ -14,6 +14,7 @@ This is a web application for stock information. Users can look up the current a
 <p align="center">
   <img src="https://github.com/user-attachments/assets/66fdf365-4f06-4b22-8102-fe0ed68fd841" alt="Homepage2"/>
 </p>
+
 ![Homepage3](https://github.com/user-attachments/assets/2e7326ec-a520-46a2-a7c6-6ef4b47ff5ef)
 
 
