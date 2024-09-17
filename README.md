@@ -8,7 +8,7 @@ This is a web application for stock information. Users can look up the current a
 [//]: # (https://financed-two.vercel.app/)
 
 
-## Home Page
+**1. Home Page**
 
 ![Homepage1](https://github.com/user-attachments/assets/360d4c79-24ea-4c4d-b8d9-3f8c83c128fc)
 
@@ -19,13 +19,13 @@ This is a web application for stock information. Users can look up the current a
 ![Homepage3](https://github.com/user-attachments/assets/2e7326ec-a520-46a2-a7c6-6ef4b47ff5ef)
 
 
-## Industry Page
+**2. Industry Page**
 
 ![IndustryPage1](https://github.com/user-attachments/assets/6d10a85e-0ee5-4e1a-857a-b050048eeb7e)
 ![IndustryPage2](https://github.com/user-attachments/assets/8f120361-8a02-48a9-bf2a-c950765200b1)
 
 
-## Stock Page
+**3. Stock Page**
 
 ![StockPage1](https://github.com/user-attachments/assets/4c69e402-ea65-4e72-808c-08297f5ce170)
 
@@ -34,7 +34,7 @@ This is a web application for stock information. Users can look up the current a
 </p>
 
 
-## Chatbot 
+**4. Chatbot**
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/7c2b598c-60d8-45f1-9ed2-f708d2919d27" alt="chatbot1" />
